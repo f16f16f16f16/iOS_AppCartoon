@@ -1,0 +1,6 @@
+framework module Pods_APP_Final_Project_051_316 {
+  umbrella header "Pods-APP_Final_Project_051_316-umbrella.h"
+
+  export *
+  module * { export * }
+}
